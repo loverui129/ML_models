@@ -4,21 +4,25 @@
 
 A machine learning project to predict the survival of passengers on the Titanic using supervised learning models. This project demonstrates data preprocessing, feature engineering, model training, and hyperparameter tuning using various algorithms.
 
-##overview
+## Overview
 The goal of this project is to predict whether a passenger survived or not based on available features such as age, gender, and class. The dataset is from Kaggle's Titanic competition.
 
 ## Steps in the Project
 
 1.EDA:
 EDA and data visualation
+
 2.Data Preprocessing:
 Handle missing values (e.g., median for Age).
+
 3.Feature Engineering:
 Create new features like FamilySize.
 Bin continuous variables (e.g., Age, Fare).
 Encode categorical variables like Sex and Embarked.
+
 4.Model Training:
 Train multiple supervised models: Random Forest, Logistic Regression, SVM, etc.
 Perform hyperparameter tuning using GridSearchCV.
-4.Model Evaluation:
+
+5.Model Evaluation:
 Evaluate models using accuracy, confusion matrix, and classification report.
