@@ -1,5 +1,4 @@
 # Titanic_Survival_Prediction
-Titanic - Machine Learning from Disaster
 
 ![titanic](https://github.com/user-attachments/assets/2fe6e9f6-6d51-42d8-aea6-d233d129db56)
 
