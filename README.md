@@ -1,7 +1,8 @@
 # Titanic_Survival_Prediction
 Titanic - Machine Learning from Disaster
 
-https://media.gettyimages.com/id/10190248/photo/sinking-passenger-steamliner.jpg?s=2048x2048&w=gi&k=20&c=ZJQ8sWp6PNyeqoPn0ylM68elGMfhC9pCTBtmNHU1xZ8=
+![istockphoto-1494804150-2048x2048](https://github.com/user-attachments/assets/662ad903-1bd4-4667-8085-4aa106fb7e65)
+
 A machine learning project to predict the survival of passengers on the Titanic using supervised learning models. This project demonstrates data preprocessing, feature engineering, model training, and hyperparameter tuning using various algorithms.
 
 #overview
