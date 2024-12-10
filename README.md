@@ -2,9 +2,11 @@
 
 ![titanic](https://github.com/user-attachments/assets/2fe6e9f6-6d51-42d8-aea6-d233d129db56)
 
-A machine learning project to predict the survival of passengers on the Titanic using supervised learning models. This project demonstrates data preprocessing, feature engineering, model training, and hyperparameter tuning using various algorithms.
 
 ## Overview
+
+A machine learning project to predict the survival of passengers on the Titanic using supervised learning models. This project demonstrates data preprocessing, feature engineering, model training, and hyperparameter tuning using various algorithms.
+
 The goal of this project is to predict whether a passenger survived or not based on available features such as age, gender, and class. The dataset is from Kaggle's Titanic competition.
 
 ## Steps in the Project
